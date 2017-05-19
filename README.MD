@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="README.MD_files/filelist.xml">
-<link rel=Edit-Time-Data href="README.MD_files/editdata.mso">
+<link rel=File-List href="README_files/filelist.xml">
+<link rel=Edit-Time-Data href="README_files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -22,27 +22,27 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Jing Kang Yeong</o:Author>
   <o:LastAuthor>Jing Kang Yeong</o:LastAuthor>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>1</o:TotalTime>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>8</o:TotalTime>
   <o:Created>2017-05-19T06:52:00Z</o:Created>
-  <o:LastSaved>2017-05-19T06:53:00Z</o:LastSaved>
+  <o:LastSaved>2017-05-19T07:10:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Characters>1</o:Characters>
-  <o:Lines>1</o:Lines>
+  <o:Words>66</o:Words>
+  <o:Characters>378</o:Characters>
+  <o:Lines>3</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>1</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>443</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="README.MD_files/themedata.thmx">
-<link rel=colorSchemeMapping href="README.MD_files/colorschememapping.xml">
+<link rel=themeData href="README_files/themedata.thmx">
+<link rel=colorSchemeMapping href="README_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -65,6 +65,7 @@ w\:* {behavior:url(#default#VML);}
    <w:DontFlipMirrorIndents/>
    <w:OverrideTableStyleHps/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -287,6 +288,8 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="HTML Variable"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="annotation subject"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="No List"/>
@@ -374,6 +377,8 @@ w\:* {behavior:url(#default#VML);}
    Name="Table Subtle 1"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Web 2"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
@@ -676,7 +681,7 @@ w\:* {behavior:url(#default#VML);}
 	margin-right:0cm;
 	margin-bottom:8.0pt;
 	margin-left:0cm;
-	line-height:107%;
+	line-height:106%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
@@ -689,9 +694,27 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -702,10 +725,6 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:8.0pt;
-	line-height:107%;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
 	margin:72.0pt 72.0pt 72.0pt 72.0pt;
@@ -727,13 +746,10 @@ div.WordSection1
 	mso-style-priority:99;
 	mso-style-parent:"";
 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:8.0pt;
-	mso-para-margin-left:0cm;
-	line-height:107%;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
-	font-size:11.0pt;
+	font-size:10.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -755,6 +771,23 @@ div.WordSection1
 
 <div class=WordSection1>
 
+<p class=MsoNormal>Open Git GUI:</p>
+
+<p class=MsoNormal>Click on “Clone an existing repo”</p>
+
+<p class=MsoNormal>Get the repo <span class=SpellE>url</span> and put it as
+source</p>
+
+<p class=MsoNormal>And set the destination folder where you want it to be</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Screenshot image like so:</p>
+
 <p class=MsoNormal><span style='mso-fareast-language:EN-SG;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
@@ -775,11 +808,37 @@ div.WordSection1
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
+</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1026" type="#_x0000_t75"
  style='width:450.75pt;height:253.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="README.MD_files/image001.png" o:title=""/>
+ <v:imagedata src="README_files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=601 height=338
-src="README.MD_files/image002.jpg" v:shapes="Picture_x0020_1"><![endif]></span></p>
+src="README_files/image002.jpg" v:shapes="Picture_x0020_1"><![endif]></span></p>
+
+<p class=MsoNormal>Save it in a word document like so:</p>
+
+<p class=MsoNormal><span style='mso-fareast-language:EN-SG;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Picture_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:453.75pt;
+ height:255pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="README_files/image003.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=605 height=340
+src="README_files/image004.jpg" v:shapes="Picture_x0020_2"><![endif]></span></p>
+
+<p class=MsoNormal>Save the word doc as html (web page) </p>
+
+<p class=MsoNormal>Name it as “README.MD”</p>
+
+<p class=MsoNormal>Save it in the repo folder you created just now</p>
+
+<p class=MsoNormal>Navigate to the word doc file</p>
+
+<p class=MsoNormal>Change the file extension &gt; View &gt; show file
+extensions &gt; change README.MD.htm to README.md</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 </div>
 
